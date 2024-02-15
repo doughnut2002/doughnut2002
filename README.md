@@ -1,15 +1,7 @@
 ### Hi there 👋
 
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My GitHub Stats</title>
-</head>
 
-<body>
     <div>
         <p align="left">
             <img src="https://komarev.com/ghpvc/?username=doughnut2002&label=Profile%20views&color=0e75b6&style=flat" alt="doughnut2002" />
@@ -35,10 +27,6 @@
             </p>
         </div>
     </div>
-</body>
-
-</html>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doughnut2002&label=Profile%20views&color=0e75b6&style=flat" alt="doughnut2002" /> </p>
 
