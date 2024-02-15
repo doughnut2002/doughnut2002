@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=doughnut2002&label=Profile%20views&color=0e75b6&style=flat" alt="doughnut2002" /> </p>
+
+
 <h1 align="center">My Stats So Far  :smiley:</h1>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=doughnut2002&show_icons=true&locale=en&layout=compact" alt="doughnut2002" /></p><br><br>
