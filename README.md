@@ -9,7 +9,7 @@
 <h1 align="center">My Stats So Far  :smiley:</h1>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=doughnut2002&" alt="joyfreaky" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doughnut2002size_weight=0.25&count_weight=0.75)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doughnut2002&size_weight=0.25&count_weight=0.75)
 
 ![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=doughnut2002&hide=contribs,prs&show_icons=true)
 
