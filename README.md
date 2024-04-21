@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doughnut2002&label=Profile%20views&color=0e75b6&style=flat" alt="doughnut2002" /> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/doughnut2002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/shekhar888)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-green)](mailto:shekhar888700@gmail.com)
 
 <h1 align="center">My Stats So Far  :smiley:</h1>
