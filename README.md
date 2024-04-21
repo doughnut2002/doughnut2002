@@ -3,16 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doughnut2002&label=Profile%20views&color=0e75b6&style=flat" alt="doughnut2002" /> </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/doughnut2002)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-green)](mailto:shekhar888700@gmail.com)
 
 <h1 align="center">My Stats So Far  :smiley:</h1>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=doughnut2002&" alt="joyfreaky" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=doughnut2002&show_icons=true&locale=en&layout=compact" alt="doughnut2002" /></p><br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doughnut2002size_weight=0.25&count_weight=0.75)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=doughnut2002&show_icons=true&locale=en" alt="doughnut2002" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=doughnut2002&" alt="doughnut2002" /></p>
-
-Sure, here's a GitHub README profile for a data engineer focusing on their experience and achievements:
+![Shekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=doughnut2002&hide=contribs,prs&show_icons=true)
 
 ---
 
