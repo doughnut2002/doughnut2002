@@ -12,6 +12,55 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=doughnut2002&" alt="doughnut2002" /></p>
 
+Sure, here's a GitHub README profile for a data engineer focusing on their experience and achievements:
+
+---
+
+# Hi there, I'm [SHEKHAR] 👋
+
+## Data Engineer | Problem Solver
+
+Welcome to my GitHub profile! I'm passionate about leveraging data to drive insights and solutions. With a background in data science and applications, I specialize in building robust data pipelines, implementing machine learning models, and crafting data-driven strategies for growth.
+
+### About Me
+
+- 🔭 Currently working on: Building scalable data pipelines and implementing ML models for predictive analytics.
+- 🌱 Learning: Advanced data engineering techniques and cloud technologies.
+- 💬 Ask me about: Data architecture, machine learning implementation, and project management.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/doughnut2002) | [Portfolio](https://www.shekharsdataforge.myduarble.com)
+
+### Experience
+
+#### Research Analyst | BHU Geology | India
+- Authored a research paper on groundwater potential zones at BHU, known for global research excellence.
+
+#### Data Analyst Intern | PW Skills | Remote
+- Achieved 98% accuracy in fraud pattern identification, resulting in annual savings exceeding $10000.
+- Implemented a predictive fraud detection model, reducing false positives by 80%.
+- Engineered data pipelines for a 70% faster fraud detection rate.
+
+### Skills
+
+- **Programming**: Python, SQL, Java, JavaScript, Scripting
+- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
+- **Backend & Frontend Frameworks**: Flask, RestAPIs, Vue.js
+- **Machine Learning & Deep Learning**: Supervised Learning, Unsupervised Learning, Deep Learning
+- **Big Data Frameworks**: Spark, Kafka, Mage, dbt , Airflow , Risingwave , Clickhouse , dlthubs
+- **Cloud**: GCP, AWS 
+- **DevOps & Deployment**: Git, GitHub, Terraform, Docker
+- **Visualization**: PowerBI, Google Data Studio , Metabase
+
+### Achievements
+
+- Built a secure and user-friendly e-commerce platform with Flask and JWT authentication.
+- Third place in Data Engineering zoomcamp 2024 with 1500+ industry professionals worldwide.
+- First Place in Smart India Hackathon for building Cloud Burst Predictor.
+- AI-Powered Multi-User E-commerce Platform with Personalized Recommendations.
+
+
+
+---
+
 <!--
 **doughnut2002/doughnut2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
