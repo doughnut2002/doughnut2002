@@ -28,16 +28,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging data to drive insi
 - 💬 Ask me about: Data architecture, machine learning implementation, and project management.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/doughnut2002) | [Portfolio](https://www.shekharsdataforge.myduarble.com)
 
-### Experience
-
-#### Research Analyst | BHU Geology | India
-- Authored a research paper on groundwater potential zones at BHU, known for global research excellence.
-
-#### Data Analyst Intern | PW Skills | Remote
-- Achieved 98% accuracy in fraud pattern identification, resulting in annual savings exceeding $10000.
-- Implemented a predictive fraud detection model, reducing false positives by 80%.
-- Engineered data pipelines for a 70% faster fraud detection rate.
-
 ### Skills
 
 - **Programming**: Python, SQL, Java, JavaScript, Scripting
