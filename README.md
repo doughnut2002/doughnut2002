@@ -19,25 +19,29 @@
 
 ## Data Engineer | Problem Solver
 
-Welcome to my GitHub profile! I'm passionate about leveraging data to drive insights and solutions. With a background in data science and applications, I specialize in building robust data pipelines, implementing machine learning models, and crafting data-driven strategies for growth.
+I'm Purnendu SHEKHAR Shukla, a data engineer with over 2.5 years of experience. I work on making Databricks projects scalable, migrating to Unity Catalog, and moving infrastructure smoothly.
+
+I am passionate about using the latest technologies to create strong and efficient data solutions. My skills include improving data processes, ensuring smooth data integration, and delivering valuable results for businesses.
+
+If you need help with your data projects or are looking for new solutions, feel free to reach out!
 
 ### About Me
 
 - 🔭 Currently working on: Building scalable data pipelines and implementing ML models for predictive analytics.
 - 🌱 Learning: Advanced data engineering techniques and cloud technologies.
 - 💬 Ask me about: Data architecture, machine learning implementation, and project management.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/doughnut2002) | [Portfolio](https://www.shekharsdataforge.myduarble.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/doughnut2002) | 
 
 ### Skills
 
 - **Programming**: Python, SQL, Java, JavaScript, Scripting
-- **Databases**: MySQL, PostgreSQL, MongoDB, Redis
-- **Backend & Frontend Frameworks**: Flask, RestAPIs, Vue.js
-- **Machine Learning & Deep Learning**: Supervised Learning, Unsupervised Learning, Deep Learning
-- **Big Data Frameworks**: Spark, Kafka, Mage, dbt , Airflow , Risingwave , Clickhouse , dlthubs
-- **Cloud**: GCP, AWS 
-- **DevOps & Deployment**: Git, GitHub, Terraform, Docker
-- **Visualization**: PowerBI, Google Data Studio , Metabase
+- **Big Data Tools/Frameworks**: Spark, Hadoop, Hive, Kafka, Mage, Airflow, dbt, Databricks, Snowflake, Flink, dltHub
+- **Databases**: MySQL, PostgreSQL, MongoDB, Cassandra, Redis
+- **Azure**: Data Lake, Data Factory, Streaming Analytics, Synapse Analytics, Fabric
+- **AWS**: S3, Glue, ECS, EC2, Redshift, DynamoDB, Athena
+- **GCP**: BigQuery, Apache Beam, Cloud Storage, Compute Engine, GKE
+- **Dashboarding**: Power BI, Tableau, Looker, Metabase, Sigma, Omni
+
 
 ### Achievements
 
