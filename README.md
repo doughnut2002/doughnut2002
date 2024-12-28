@@ -17,54 +17,49 @@
 
 # Hi there, I'm [SHEKHAR] 👋
 
-## Data Engineer | Problem Solver
+## Data Engineer
 
-I'm Purnendu SHEKHAR Shukla, a data engineer with over 2.5 years of experience. I work on making Databricks projects scalable, migrating to Unity Catalog, and moving infrastructure smoothly.
+I'm **Purnendu SHEKHAR Shukla**, a passionate Data Engineer with over 2.5 years of experience. I specialize in building scalable data solutions, implementing Unity Catalog migrations, and seamlessly transitioning infrastructure to meet enterprise demands.  
 
-I am passionate about using the latest technologies to create strong and efficient data solutions. My skills include improving data processes, ensuring smooth data integration, and delivering valuable results for businesses.
+I thrive on solving complex data challenges and leveraging cutting-edge technologies to deliver meaningful business outcomes. From optimizing data pipelines to ensuring robust cloud deployments, I am dedicated to creating impactful solutions.  
 
-If you need help with your data projects or are looking for new solutions, feel free to reach out!
-
-### About Me
-
-- 🔭 Currently working on: Building scalable data pipelines and implementing ML models for predictive analytics.
-- 🌱 Learning: Advanced data engineering techniques and cloud technologies.
-- 💬 Ask me about: Data architecture, machine learning implementation, and project management.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/doughnut2002) | 
-
-### Skills
-
-- **Programming**: Python, SQL, Java, JavaScript, Scripting
-- **Big Data Tools/Frameworks**: Spark, Hadoop, Hive, Kafka, Mage, Airflow, dbt, Databricks, Snowflake, Flink, dltHub
-- **Databases**: MySQL, PostgreSQL, MongoDB, Cassandra, Redis
-- **Azure**: Data Lake, Data Factory, Streaming Analytics, Synapse Analytics, Fabric
-- **AWS**: S3, Glue, ECS, EC2, Redshift, DynamoDB, Athena
-- **GCP**: BigQuery, Apache Beam, Cloud Storage, Compute Engine, GKE
-- **Dashboarding**: Power BI, Tableau, Looker, Metabase, Sigma, Omni
-
-
-### Achievements
-
-- Built a secure and user-friendly e-commerce platform with Flask and JWT authentication.
-- Third place in Data Engineering zoomcamp 2024 with 1500+ industry professionals worldwide.
-- First Place in Smart India Hackathon for building Cloud Burst Predictor.
-- AI-Powered Multi-User E-commerce Platform with Personalized Recommendations.
-
-
+If you're working on challenging data projects or need innovative solutions, feel free to connect with me!
 
 ---
 
-<!--
-**doughnut2002/doughnut2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me  
 
-Here are some ideas to get you started:
+- 🔝 **Currently Working On**:  
+  - Delivering Databricks enablement projects, including Unity Catalog migrations.  
+  - Designing real-time streaming platforms and enhancing dashboarding solutions with tools like Sigma and Omni.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 **Learning**:  
+  - Advanced data engineering techniques and real-time data processing frameworks.  
+
+- 💬 **Ask Me About**:  
+  - Data lakehouse architecture, real-time streaming solutions, and analytics.  
+
+- 📧 **How to Reach Me**:  
+  [LinkedIn](https://www.linkedin.com/in/doughnut2002) | [GitHub](https://github.com/doughnut2002)
+
+---
+
+### Skills  
+
+- **Programming**: Python, SQL, Java, JavaScript, Scripting  
+- **Big Data Tools/Frameworks**: Spark, Hadoop, Hive, Kafka, Mage, Airflow, dbt, Databricks, Snowflake, Flink, dltHub  
+- **Databases**: MySQL, PostgreSQL, MongoDB, Cassandra, Redis  
+- **Azure**: Data Lake, Data Factory, Streaming Analytics, Synapse Analytics, Fabric  
+- **AWS**: S3, Glue, ECS, EC2, Redshift, DynamoDB, Athena  
+- **GCP**: BigQuery, Apache Beam, Cloud Storage, Compute Engine, GKE  
+- **Dashboarding**: Power BI, Tableau, Looker, Metabase, Sigma, Omni  
+
+---
+
+### Achievements  
+
+- 🏆 **Third Place** in Data Engineering Zoomcamp 2024 among 1500+ professionals worldwide.  
+- 🏅 **First Place** in Smart India Hackathon for building a Cloud Burst Predictor.  
+- 🚀 Designed and implemented a data lakehouse architecture using Apache Iceberg, AWS Glue, ECS, and Athena.  
+- ⏳ Reduced the data processing lifecycle from 2 days to 15 seconds for a high-frequency trading platform handling 2.5 TB daily data.  
+- 🧪 Published a research paper on groundwater potential zones at BHU, showcasing innovative data science applications.
